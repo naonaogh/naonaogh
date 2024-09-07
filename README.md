@@ -11,5 +11,5 @@
 [![CSS](https://shields.io/badge/-CSS-264DE4?style=for-the-badge&logo=css3&logoColor=fff)](https://www.w3schools.com/css/)
 
 ### Follow Me
-[![Vk](https://shields.io/badge/-Vk-0077FF?style=for-the-badge&logo=Vk&logoColor=fff)](https://vk.com/naonaogh)
+[![Vk](https://shields.io/badge/-Vkontakte-0077FF?style=for-the-badge&logo=Vk&logoColor=fff)](https://vk.com/naonaogh)
 [![TELEGRAM](https://shields.io/badge/-TELEGRAM-28A8E9?style=for-the-badge&logo=TELEGRAM&logoColor=fff)](https://t.me/naonaogh)
