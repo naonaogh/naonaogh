@@ -13,7 +13,3 @@
 ### Follow Me
 [![Vk](https://shields.io/badge/-Vkontakte-0077FF?style=for-the-badge&logo=Vk&logoColor=fff)](https://vk.com/naonaogh)
 [![TELEGRAM](https://shields.io/badge/-TELEGRAM-28A8E9?style=for-the-badge&logo=TELEGRAM&logoColor=fff)](https://t.me/naonaogh)
-
-<div>
-<img src="https://komarev.com/ghpvc/?username=naonaogh&style=flat-square&color=333333" alt=""/>
-</div>
