@@ -1,4 +1,5 @@
-![Описание изображения](stalname.svg)
+![SVG файл](stalname.svg)
+
 
 ## Hi 👋, call me NaoNao, it's more convenient
 ### А student of applied computer science
