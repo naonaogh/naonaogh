@@ -1,3 +1,5 @@
+[Посмотреть SVG-анимацию](./name.svg)
+
 ![Header](https://github.com/naonaogh/naonaogh/blob/main/pic/py.png)
 
 ## Hi 👋, call me NaoNao, it's more convenient

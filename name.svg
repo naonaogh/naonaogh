@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <!-- Фон -->
+  <rect width="100%" height="100%" fill="#f0f0f0" />
+
+  <!-- Текст -->
+  <text x="50%" y="50%" font-size="36" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" dominant-baseline="middle">
+    naonaogh
+  </text>
+
+  <!-- Змейка 1 -->
+  <path id="snake1" d="M50,150 Q150,50 250,150 T450,150" fill="none" stroke="blue" stroke-width="3" />
+  <circle r="5" fill="blue">
+    <animateMotion repeatCount="indefinite" dur="4s">
+      <mpath href="#snake1" />
+    </animateMotion>
+  </circle>
+
+  <!-- Змейка 2 -->
+  <path id="snake2" d="M50,170 Q150,70 250,170 T450,170" fill="none" stroke="blue" stroke-width="3" />
+  <circle r="5" fill="blue">
+    <animateMotion repeatCount="indefinite" dur="3s" begin="2s">
+      <mpath href="#snake2" />
+    </animateMotion>
+  </circle>
+</svg>
