@@ -1,25 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
-  <!-- Фон -->
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="100" viewBox="0 0 400 100">
   <rect width="100%" height="100%" fill="#f0f0f0" />
 
-  <!-- Текст -->
+  <!-- Буквы -->
   <text x="50%" y="50%" font-size="36" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" dominant-baseline="middle">
-    naonaogh
+    <tspan id="n">n</tspan>
+    <tspan id="a">a</tspan>
+    <tspan id="o">o</tspan>
+    <tspan id="n2">n</tspan>
+    <tspan id="a2">a</tspan>
+    <tspan id="o2">o</tspan>
+    <tspan id="g">g</tspan>
+    <tspan id="h">h</tspan>
+
+    <!-- Анимация появления букв -->
+    <animate xlink:href="#n" attributeName="opacity" from="0" to="1" begin="0s" dur="0.5s" repeatCount="indefinite" />
+    <animate xlink:href="#a" attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.5s" repeatCount="indefinite" />
+    <animate xlink:href="#o" attributeName="opacity" from="0" to="1" begin="1s" dur="0.5s" repeatCount="indefinite" />
+    <animate xlink:href="#n2" attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.5s" repeatCount="indefinite" />
+    <animate xlink:href="#a2" attributeName="opacity" from="0" to="1" begin="2s" dur="0.5s" repeatCount="indefinite" />
+    <animate xlink:href="#o2" attributeName="opacity" from="0" to="1" begin="2.5s" dur="0.5s" repeatCount="indefinite" />
+    <animate xlink:href="#g" attributeName="opacity" from="0" to="1" begin="3s" dur="0.5s" repeatCount="indefinite" />
+    <animate xlink:href="#h" attributeName="opacity" from="0" to="1" begin="3.5s" dur="0.5s" repeatCount="indefinite" />
   </text>
-
-  <!-- Змейка 1 -->
-  <path id="snake1" d="M50,150 Q150,50 250,150 T450,150" fill="none" stroke="blue" stroke-width="3" />
-  <circle r="5" fill="blue">
-    <animateMotion repeatCount="indefinite" dur="4s">
-      <mpath href="#snake1" />
-    </animateMotion>
-  </circle>
-
-  <!-- Змейка 2 -->
-  <path id="snake2" d="M50,170 Q150,70 250,170 T450,170" fill="none" stroke="blue" stroke-width="3" />
-  <circle r="5" fill="blue">
-    <animateMotion repeatCount="indefinite" dur="3s" begin="2s">
-      <mpath href="#snake2" />
-    </animateMotion>
-  </circle>
 </svg>
