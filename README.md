@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&background=C:\Users\Zyema\Desktop\naonaogh\stal.webp&weight=500&size=44&pause=1000&color=6D9FFF&center=true&vCenter=true&width=435&lines=naonaogh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&background=C:\Users\Zyema\Desktop\naonaogh\stal.webp&weight=500&size=44&pause=1000&color=6D9FFF&center=true&vCenter=true&width=1000&lines=naonaogh)](https://git.io/typing-svg)
 
 ## Hi 👋, call me NaoNao, it's more convenient
 ### А student of applied computer science
