@@ -13,14 +13,8 @@
 
 ### My skills and tools
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,arduino,figma)](https://skillicons.dev)
+[![Cisco](https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg)](https://www.cisco.com)
 
-<a href="https://www.cisco.com" target="_blank">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-    <path d="M4 16C4 8.268 8.268 4 16 4h32c7.732 0 12 4.268 12 12v32c0 7.732-4.268 12-12 12H16c-7.732 0-12-4.268-12-12V16z" fill="#1d78b6"/>
-    <path d="M43 22v20c0 1.104-.896 2-2 2h-8c-1.104 0-2-.896-2-2V22c0-1.104.896-2 2-2h8c1.104 0 2 .896 2 2z" fill="#fff"/>
-    <path d="M23 22v20c0 1.104-.896 2-2 2h-8c-1.104 0-2-.896-2-2V22c0-1.104.896-2 2-2h8c1.104 0 2 .896 2 2z" fill="#fff"/>
-  </svg>
-</a>
 
 
 ### Follow Me
