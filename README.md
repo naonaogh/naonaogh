@@ -1,15 +1,19 @@
 <div id="header" >
-  <img src = "https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b7611pzst5iqktbvpdlr01ughtwcu2bkixokkrny26kpw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = "110" align="left"/>
+  <img src = "https://media.giphy.com/media/OwK8oFeh9C46Y/giphy.gif?cid=ecf05e47p5xsacestt011a6uzo720zvvlptai2ljv4mmh083&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = "120" align="center"/>
 </div>
 
  <div class = "a" align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=30&pause=1000&color=6D9FFF&background=36FFF600&center=true&vCenter=true&width=720&lines=Hi,+call+me+NaoNao,+it's+more+convenient" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=30&pause=1000&color=6D9FFF&background=36FFF600&center=true&vCenter=true&width=740&lines=Hi,+call+me+NaoNao,+it's+more+convenient" alt="Typing SVG" /></a>
  </div> 
 
- <div> <p> А student of applied computer science </p></div>
+ <div class = "a" align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=30&pause=1000&color=6D9FFF&background=36FFF600&center=true&vCenter=true&width=740&lines=А+student+of+applied+computer+science" alt="Typing SVG" /></a>
+</div>
 
+ <div class = "a" align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=30&pause=1000&color=6D9FFF&background=36FFF600&center=true&vCenter=true&width=740&lines=Now+I’m+focusing+on+studying+at+the+university+and+want+to+delve+deeper+into+the+topic+of+car+programming" alt="Typing SVG" /></a>
+</div>
 ### 
-### Now I’m focusing on studying at the university and want to delve deeper into the topic of car programming
 
 ### Languages and Tools:
 [![Python](https://shields.io/badge/-Python-1D405C?style=for-the-badge&logo=python&logoColor=fff)](https://www.python.org)
