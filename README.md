@@ -1,5 +1,5 @@
 <div id="header" >
-  <img src = "https://media.giphy.com/media/OwK8oFeh9C46Y/giphy.gif?cid=ecf05e47p5xsacestt011a6uzo720zvvlptai2ljv4mmh083&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = "120" align="center"/>
+  <img src = "https://media.giphy.com/media/OwK8oFeh9C46Y/giphy.gif?cid=ecf05e47p5xsacestt011a6uzo720zvvlptai2ljv4mmh083&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = "300" align="center"/>
 </div>
 
  <div class = "a" align="center">
@@ -11,9 +11,12 @@
 </div>
 
  <div class = "a" align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=30&pause=3000&color=6D9FFF&background=36FFF600&center=true&vCenter=true&width=940&lines=Now+I’m+focusing+on+studying+at+the+university+and+want+to+delve+deeper+into+the+topic+of+car+programming" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=30&pause=3000&color=6D9FFF&background=36FFF600&center=true&vCenter=true&width=940&lines=Now+I’m+focusing+on+studying+at+the+university" alt="Typing SVG" /></a>
 </div>
-### 
+
+ <div class = "a" align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=30&pause=3000&color=6D9FFF&background=36FFF600&center=true&vCenter=true&width=940&lines=and+want+to+delve+deeper+into+the+topic+of+car+programming" alt="Typing SVG" /></a>
+</div>
 
 ### Languages and Tools:
 [![Python](https://shields.io/badge/-Python-1D405C?style=for-the-badge&logo=python&logoColor=fff)](https://www.python.org)
