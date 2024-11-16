@@ -14,9 +14,8 @@
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,arduino,figma)](https://skillicons.dev)
 
 ### Follow Me
-[![VK](https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white&borderRadius=50%)](https://vk.com/naonaogh)
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white&borderRadius=50%)](https://t.me/naonaogh)
-
+[![VK](https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/naonaogh)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/naonaogh)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=naonaogh&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
