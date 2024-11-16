@@ -14,8 +14,8 @@
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,arduino,figma)](https://skillicons.dev)
 
 ### Follow Me
-[![VK](https://path-to-your-round-vk-logo.png)](https://vk.com/naonaogh)
-[![Telegram](https://path-to-your-round-telegram-logo.png)](https://t.me/naonaogh)
+[![VK](free-icon-vk-3670055.png)](https://vk.com/naonaogh)
+[![Telegram](free-icon-telegram-2111646.png)](https://t.me/naonaogh)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=naonaogh&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
