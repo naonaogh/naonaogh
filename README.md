@@ -2,7 +2,7 @@
   <img src = "https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b7611pzst5iqktbvpdlr01ughtwcu2bkixokkrny26kpw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = "120" align="left"/>
 </div>
 
- <div class = "a" align="left">
+ <div class = "a" align="right">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&pause=1000&color=6D9FFF&background=36FFF600&center=true&vCenter=true&width=435&lines=Hi+👋+call+me+NaoNao,+it's+more+convenient" alt="Typing SVG" /></a>
  </div>
 
