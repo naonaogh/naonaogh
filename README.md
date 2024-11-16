@@ -3,7 +3,7 @@
 </div>
 
  <div class = "a" style="text-align: center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=30&duration=3500&pause=3000&color=6D9FFF&background=36FFF600&center=true&vCenter=true&width=900&lines=Hi,+call+me+NaoNao,+it's+more+convenient;А+student+of+applied+computer+science;Now+I’m+focusing+on+studying+at+the+university;and+want+to+delve+deeper+into+the+topic+of+car+programming" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=30&duration=3500&pause=3000&color=6D9FFF&background=36FFF600&center=true&vCenter=true&width=900&lines=Hi,+call+me+NaoNao,+it's+more+convenient;А+student+of+applied+computer+science;Now+I’m+focusing+on+studying+at+the+university;want+to+dive+deeper+into+car+programming." alt="Typing SVG" /></a>
  </div> 
 
 ### Languages and Tools:
