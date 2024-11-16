@@ -22,7 +22,7 @@
   <img src="free-icon-telegram-2111646.png" alt="Telegram" width="50" height="50">
 </a>
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=naonaogh&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=naonaogh&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naonaogh&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
