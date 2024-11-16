@@ -11,7 +11,8 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=30&duration=3000&pause=2500&color=6D9FFF&background=36FFF600&center=true&vCenter=true&width=900&lines=Hi,+call+me+NaoNao,+it's+more+convenient;А+student+of+applied+computer+science;Now+I’m+focusing+on+studying+at+the+university;Want+to+dive+deeper+into+car+programming." alt="Typing SVG" /></a>
  </div> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+### My skills and tools
+[![My Skills](https://skillicons.dev/icons?i=python,c++,html,css,arduino,cisco,figma)](https://skillicons.dev)
 
 ### Follow Me
 [![Vk](https://shields.io/badge/-Vkontakte-0077FF?style=for-the-badge&logo=Vk&logoColor=fff)](https://vk.com/naonaogh)
