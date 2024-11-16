@@ -1,11 +1,11 @@
 <div id="header" >
-  <img src = "https://media.giphy.com/media/74OhY9HiyDddCvPtgf/giphy.gif?cid=ecf05e47271qwlch94m75jwo3kik869s70ofw26giwz2y3z9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = "150" align="left"/>
+  <img src = "https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b7611pzst5iqktbvpdlr01ughtwcu2bkixokkrny26kpw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = "120" align="left"/>
 </div>
 
  <div class = "a" align="left">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=44&pause=1000&color=6D9FFF&background=36FFF600&center=true&vCenter=true&width=435&lines=naonaogh" alt="Typing SVG" /></a>
  </div>
- 
+
 ## Hi 👋, call me NaoNao, it's more convenient
 ### А student of applied computer science
 ### Now I’m focusing on studying at the university and want to delve deeper into the topic of car programming
