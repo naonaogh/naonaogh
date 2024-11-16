@@ -3,7 +3,7 @@
     src="https://media.giphy.com/media/OwK8oFeh9C46Y/giphy.gif?cid=ecf05e47p5xsacestt011a6uzo720zvvlptai2ljv4mmh083&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
     width="200" 
     alt="GIF" 
-    style="margin-bottom: 50px;">
+    style="margin-bottom: 10px;">
 </div>
 
  <div class = "a" style="text-align: center">
@@ -14,8 +14,13 @@
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,arduino,figma)](https://skillicons.dev)
 
 ### Follow Me
-[![VK](free-icon-vk-3670055.png)](https://vk.com/naonaogh)
-[![Telegram](free-icon-telegram-2111646.png)](https://t.me/naonaogh)
+<a href="https://vk.com/naonaogh">
+  <img src="free-icon-vk-3670055.png" alt="VK" width="50" height="50">
+</a>
+
+<a href="https://t.me/naonaogh">
+  <img src="free-icon-telegram-2111646.png" alt="Telegram" width="50" height="50">
+</a>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=naonaogh&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
