@@ -6,22 +6,19 @@
     style="margin-bottom: 50px;">
 </div>
 
-
  <div class = "a" style="text-align: center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=30&duration=3000&pause=2500&color=6D9FFF&background=36FFF600&center=true&vCenter=true&width=900&lines=Hi,+call+me+NaoNao,+it's+more+convenient;А+student+of+applied+computer+science;Now+I’m+focusing+on+studying+at+the+university;Want+to+dive+deeper+into+car+programming." alt="Typing SVG" /></a>
  </div> 
 
 ### My skills and tools
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,arduino,figma)](https://skillicons.dev)
-[![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=rounded&logo=cisco&logoColor=black)](https://www.cisco.com)
-
 
 ### Follow Me
-[![Vk](https://shields.io/badge/-Vkontakte-0077FF?style=for-the-badge&logo=Vk&logoColor=fff)](https://vk.com/naonaogh)
-[![TELEGRAM](https://shields.io/badge/-TELEGRAM-28A8E9?style=for-the-badge&logo=TELEGRAM&logoColor=fff)](https://t.me/naonaogh)
+[![VK](https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white&borderRadius=50%)](https://vk.com/naonaogh)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white&borderRadius=50%)](https://t.me/naonaogh)
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bendyou&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bendyou&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bendyou&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=naonaogh&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=naonaogh&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=naonaogh&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
