@@ -13,8 +13,7 @@
 
 ### My skills and tools
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,arduino,figma)](https://skillicons.dev)
-[![Cisco](https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg)](https://www.cisco.com)
-
+[![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)](https://www.cisco.com)
 
 
 ### Follow Me
