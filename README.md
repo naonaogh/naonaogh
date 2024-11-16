@@ -3,8 +3,8 @@
 </div>
 
  <div class = "a" align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&pause=1000&color=6D9FFF&background=36FFF600&center=true&vCenter=true&width=435&lines=Hi+👋+call+me+NaoNao,+it's+more+convenient" alt="Typing SVG" /></a>
- </div>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&pause=1000&color=6D9FFF&background=36FFF600&center=true&vCenter=true&width=435&lines=Hi,+call+me+NaoNao,+it's+more+convenient" alt="Typing SVG" /></a>
+ </div> <br>
 
 ### А student of applied computer science
 ### Now I’m focusing on studying at the university and want to delve deeper into the topic of car programming
