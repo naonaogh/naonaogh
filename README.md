@@ -13,7 +13,7 @@
 
 ### My skills and tools
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,arduino,figma)](https://skillicons.dev)
-[![Cisco](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cisco_logo.svg/1200px-Cisco_logo.svg.png)](https://www.cisco.com)
+[![Cisco](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cisco_logo.svg/1200px-Cisco_logo.svg.png)](https://www.cisco.com/)
 
 ### Follow Me
 [![Vk](https://shields.io/badge/-Vkontakte-0077FF?style=for-the-badge&logo=Vk&logoColor=fff)](https://vk.com/naonaogh)
